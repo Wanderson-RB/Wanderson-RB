@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wanderson-RB
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning data structures
+- 🌱 I’m currently HTML, CSS, JavaScript
 
 <!---
 Wanderson-RB/Wanderson-RB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
